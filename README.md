@@ -32,3 +32,5 @@ pip install web3
 Remember to replace 'your_infura_api_key' with your actual Infura API key and 'your_ethereum_address' with the Ethereum address you want to check.
 
 This script demonstrates a basic interaction with the Ethereum blockchain by querying the balance of a given address. Depending on your requirements, you can extend this script to perform various transactions, deploy smart contracts, or interact with other blockchain features.
+
+# checkIng-the-ETH-balance
